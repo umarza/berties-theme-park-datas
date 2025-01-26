@@ -1,0 +1,37 @@
+[
+    {
+        "animalName":"Falcor",
+        "animalPic":"https://fi67.github.io/JsonData/images/falcor.jpg",
+        "animalAge":"8",
+        "animalType":"dog",
+        "animalBreed":"Cross Breed Collie"
+    },
+    {
+        "animalName":"Jemima",
+        "animalPic":"https://fi67.github.io/JsonData/images/jemima.jpg",
+        "animalAge":"6",
+        "animalType":"dog",
+        "animalBreed":"Cross Breed Sproodle"
+    },
+    {
+        "animalName":"Garnet",
+        "animalPic":"https://fi67.github.io/JsonData/images/garnet.jpg",
+        "animalAge":"15",
+        "animalType":"cat",
+        "animalBreed":"tabby moggy"
+    },
+    {
+        "animalName":"Tabby",
+        "animalPic":"https://fi67.github.io/JsonData/images/tabby.jpg",
+        "animalAge":"11",
+        "animalType":"cat",
+        "animalBreed":"tabby moggy"
+    },
+    {
+        "animalName":"Moonlight",
+        "animalPic":"https://fi67.github.io/JsonData/images/moonlight.jpg",
+        "animalAge":"11",
+        "animalType":"cat",
+        "animalBreed":"Black and white moggy"
+    }
+]
